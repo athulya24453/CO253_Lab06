@@ -1,0 +1,6 @@
+# depslib dependency file v1.0
+1683791963 source:d:\e19\sem4\co253 - programming for ee students\labs\lab06\q2\ans\main.c
+	<stdio.h>
+	<stdlib.h>
+	<limits.h>
+
